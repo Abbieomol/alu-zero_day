@@ -1,2 +1,2 @@
-My first readme
-# alu-zero_day
+# alu-zero_day Repository
+This repository is for my ALU zero day project.
